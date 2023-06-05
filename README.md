@@ -1,6 +1,6 @@
 # Python-For-Everybody
 
-This course is offered by University of Michigan on Coursera
+This course is offered by the University of Michigan on Coursera
 
 # Overview
 
@@ -12,4 +12,4 @@ This repository covers the following courses:
 4. Using Databases with Python
 5. Capstone: Retrieving, Processing, and Visualizing Data with Python
 
-This repository only includes written codes in the scope of each module.
+This repository only includes written codes for assignments in the scope of each module.
