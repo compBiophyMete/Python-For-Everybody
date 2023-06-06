@@ -12,4 +12,4 @@ This repository covers the following courses:
 4. Using Databases with Python
 5. Capstone: Retrieving, Processing, and Visualizing Data with Python
 
-This repository only includes written codes for assignments in the scope of each module.
+Of note, this repository only includes written codes for assignments in the scope of each module.
